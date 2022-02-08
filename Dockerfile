@@ -1,4 +1,4 @@
-FROM node:14.17.5-alpine3.14
+FROM node:14.18.3-alpine3.14
 
 MAINTAINER  Jean Carlos Souza - 27-09-2021 aula 1  
 
